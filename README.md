@@ -1,6 +1,3 @@
 # HensalPlus
-Open Tabs, google,wikipedia,& github in firefox.
-This Will Not Work In Linuk,Mac,chromeOs Or non-windows coumpters
-
-## HensalPlus For Chrome
-
+ An Windows Batch FIle Libary For Batch Programs in Browers And Command Promt.
+ Will Not Work in non-windw-coumpters!
